@@ -1,5 +1,5 @@
 package ca.demo.salestool;
-
+/* Where is the documentation! */
 public class Main
 {
 	public static void main(String[] args)

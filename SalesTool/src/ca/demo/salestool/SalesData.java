@@ -1,5 +1,5 @@
 package ca.demo.salestool;
-
+/* More docs */
 public class SalesData
 {
 	int data[] = {-1, 0, 4, 42, 84};
